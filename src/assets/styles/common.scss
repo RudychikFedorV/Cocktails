@@ -11,6 +11,23 @@ body {
   color: $text;
 }
 a {
-    color: inherit;
-    // text-decoration: none;
+  color: inherit;
+  text-decoration: none;
+}
+.title {
+  color: #fff;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 500;
+  letter-spacing: 6.4px;
+  text-transform: uppercase;
+  margin-top: 263px;
+  margin-inline: auto;
+  margin-bottom: 32px;
+}
+.line {
+  width: 100px;
+  height: 5px;
+  background: #ff0f82;
+  margin-inline: auto;
 }
